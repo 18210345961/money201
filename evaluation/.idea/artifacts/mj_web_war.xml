@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mj-web:war">
+    <output-path>$PROJECT_DIR$/../project-mj/mj-web/target</output-path>
+    <root id="archive" name="mj-web-1.0.0.war">
+      <element id="artifact" artifact-name="mj-web:war exploded" />
+    </root>
+  </artifact>
+</component>

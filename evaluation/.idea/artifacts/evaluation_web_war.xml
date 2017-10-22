@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="evaluation-web:war">
+    <output-path>$PROJECT_DIR$/evaluation-web/target</output-path>
+    <root id="archive" name="evaluation-web.war">
+      <element id="artifact" artifact-name="evaluation-web:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="Maven: com.alibaba:jconsole:1.8.0" module-name="evaluation-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

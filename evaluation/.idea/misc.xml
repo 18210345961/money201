@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/eval-web" />
+    <file type="web" url="file://$PROJECT_DIR$/evaluation-service" />
+    <file type="web" url="file://$PROJECT_DIR$/evaluation-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../project-mj/mj-app" />
+    <file type="web" url="file://$PROJECT_DIR$/../project-mj/mj-biz-app" />
+    <file type="web" url="file://$PROJECT_DIR$/../project-mj/mj-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-api/zheng-api-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-cms/zheng-cms-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-cms/zheng-cms-job" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-cms/zheng-cms-search" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-cms/zheng-cms-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-demo/zheng-demo-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-oss/zheng-oss-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-oss/zheng-oss-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-pay/zheng-pay-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-pay/zheng-pay-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-ucenter/zheng-ucenter-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-upms/zheng-upms-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../../project/zheng-master/zheng-wechat/zheng-wechat-mp/zheng-wechat-mp-admin" />
+    <file type="web" url="file://F:/study/project/Javashop-B2C/javashop/b2c" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../project-mj/pom.xml" />
+        <option value="$PROJECT_DIR$/../../project/zheng-master/pom.xml" />
+        <option value="$PROJECT_DIR$/eval-web/pom.xml" />
+        <option value="F:/study/project/Javashop-B2C/javashop/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
